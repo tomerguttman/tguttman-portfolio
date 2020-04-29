@@ -8,7 +8,12 @@ To enter the portfolio website please click [Here](http://tomergut.pythonanywher
 > The portfolio website was developed using with the following technologies: <br /> `HTML & CSS` `Flask` `Python`
 
 ## Key Learnings
-
+- HTML
+- CSS
+- FLASK
+- JavaScript
+- Python
+- Linux VM
 
 ## Built With
 
